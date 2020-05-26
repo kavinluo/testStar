@@ -1,2 +1,0 @@
-# testStar
-Created with CodeSandbox
